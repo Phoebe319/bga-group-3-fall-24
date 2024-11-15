@@ -1,2 +1,2 @@
 # research.py and research.ipynb are the same file, just in different formats
-# also the combined dataset is in the research file
+# 'completed_df.csv' is the dataset that contains pass plays and the pocket time of the quarterbacks
